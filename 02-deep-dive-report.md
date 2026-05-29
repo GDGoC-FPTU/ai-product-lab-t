@@ -2,7 +2,7 @@
 
 **Lab:** AI Product Scoping — Vin Smart Future  
 **Tên nhóm:** T-C-Cow-B-ng  
-**Thành viên đã ghi nhận:** Kez — MSSV: 2A202600588  
+**Thành viên nhóm:** Nguyễn Đức Khang — MSSV: 2A202600588; Mạc Văn Thanh — MSSV: 2A202600638
 **Bài toán chọn:** Xanh SM — AI co-pilot hỗ trợ xử lý sự cố pin thấp của tài xế
 
 > Ghi chú dữ liệu: báo cáo dùng dữ liệu giả lập và ước lượng để hoàn thành lab scoping. Đây không phải dữ liệu vận hành nội bộ của Xanh SM/Vingroup. Nếu làm thật, nhóm cần thay bằng log điều vận, dữ liệu pin xe, dữ liệu trạm sạc và thời gian xử lý ticket thực tế.
