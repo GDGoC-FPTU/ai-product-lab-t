@@ -1,7 +1,7 @@
 # 03 — AI Log & Reflection
 
 **Lab:** AI Product Scoping — Vin Smart Future  
-**Thành viên nhóm:** Nguyễn Đức Khang — MSSV: 2A202600588; Mạc Văn Thanh — MSSV: 2A202600638
+**Thành viên nhóm:** Nguyễn Đức Khang — MSSV: 2A202600588;
 **Bài toán:** Xanh SM — AI co-pilot hỗ trợ xử lý sự cố pin thấp của tài xế
 
 ---
