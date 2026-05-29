@@ -2,7 +2,7 @@
 
 **Lab:** AI Product Scoping — Vin Smart Future  
 **Scope:** Phase 1 & Phase 2  
-**Thành viên nhóm:** Nguyễn Đức Khang — MSSV: 2A202600588;
+**Người thực hiện:** Nguyễn Đức Khang — MSSV: 2A202600588
 
 > Ghi chú dữ liệu: các con số dưới đây là ước lượng phục vụ scoping lab, chưa phải số liệu nội bộ chính thức của Vingroup. Khi triển khai thật cần kiểm chứng bằng log điều vận, ticket system, dữ liệu app hoặc khảo sát thực địa.
 
